@@ -4,6 +4,7 @@ An interactive voice-enabled calculator that performs basic arithmetic operation
 
 🚀 Features
 🎙️ Voice Recognition for Arithmetic Commands
+
 🧮 Basic Operations: Addition, Subtraction, Multiplication, Division
 📊 Dynamic Graph Plotting for Mathematical Functions
 🖥️ Real-time UI Updates
@@ -13,6 +14,8 @@ HTML – Page structure
 CSS – Styling and layout
 JavaScript – Speech recognition and logic implementation
 PHP – Backend placeholder (optional; use for future data handling)
+
+
 📂 Project Structure
 voice-calculator/ ├── index.html ├── style.css ├── script.js ├── graph.js (optional) ├── functions.php (optional)
 
